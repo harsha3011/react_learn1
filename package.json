@@ -1,0 +1,23 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "this is react app learining lesson",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsha3011/react_learn1.git"
+  },
+  "keywords": [],
+  "author": "Harsha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsha3011/react_learn1/issues"
+  },
+  "homepage": "https://github.com/harsha3011/react_learn1#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
